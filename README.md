@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project explores a Superstore dataset to identify the root causes of losses in specific states and categories. The goal is to provide data-driven recommendations to improve profitability.
 
-## 🔍 Key Interpretation (Hamro Findings)
+## 🔍 Key Interpretation 
 After performing data cleaning and EDA (Exploratory Data Analysis), we found:
 
 1. **The Discount Impact:** - There is a **negative correlation (-0.22)** between Discount and Profit.
